@@ -5,7 +5,22 @@ The least squares level sets are drawn next to the different unit "circles".
 
 I prepared a cool animation which I believe makes it even clearer than the static image :)
 
+## The animation
 ![The outcome](https://github.com/ievron/RegularizationAnimation/blob/main/Regularization.gif?raw=true)
+
+Also available as a video file in the file list above.
+
+## The code
+Can be found on the `regularization.py` script.
+
+### Dependencies
+- `numpy` 
+- `matplotlib`
+- [`celluloid`](https://pypi.org/project/celluloid/) (only if you want to create animations)
+
+### Copyrights
+The code is free to use but please keep the copyrights on the animations :)
+
 
 ## Other helpful resources
 - [Youtube: Sparsity and the L1 norm by Steve Brunton](https://www.youtube.com/watch?v=76B5cMEZA4Y&feature=youtu.be&ab_channel=SteveBrunton)
