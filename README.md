@@ -7,7 +7,9 @@ I prepared a cool animation which I believe makes it even clearer than the stati
 
 The left side shows the LS problem constrained by the L2 norm, while the right side uses the L1 norm.
 That is, the following problems are illustrated:
+
 ![L2 norm](https://github.com/ievron/RegularizationAnimation/blob/main/L2%20formula.png?raw=true)
+
 ![L1 norm](https://github.com/ievron/RegularizationAnimation/blob/main/L1%20formula.png?raw=true)
 
 ## The animation
