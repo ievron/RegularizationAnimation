@@ -3,7 +3,7 @@
 Many illustrate this using the least squares problem with a norm constraint, which is an equivalent problem to the regularized least squares problem.
 The least squares level sets are drawn next to the different unit "circles".
 
-I prepared a cool animation which I believe makes it even clearer than the static image :)
+I prepared a cool animation which I believe makes it even clearer than static images and helps develop intuition. :)
 
 ## The animation
 ![The outcome](https://github.com/ievron/RegularizationAnimation/blob/main/Regularization.gif?raw=true)
