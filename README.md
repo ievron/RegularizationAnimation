@@ -9,5 +9,5 @@ I prepared a cool animation which I believe makes it even clearer than the stati
 
 ## Other helpful resources
 - [Youtube: Sparsity and the L1 norm by Steve Brunton](https://www.youtube.com/watch?v=76B5cMEZA4Y&feature=youtu.be&ab_channel=SteveBrunton)
-- [Sam Petulla's interactive demo](https://stats.stackexchange.com/questions/45643/why-l1-norm-for-sparse-models/45644#45644)
+- [Sam Petulla's interactive demo](https://observablehq.com/@petulla/l1-l2l_1-l_2l1-l2-norm-geometric-interpretation)
 - [Mathematical explanations on CrossValidated](https://stats.stackexchange.com/questions/45643/why-l1-norm-for-sparse-models/45644)
