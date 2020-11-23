@@ -26,8 +26,8 @@ Can be found on the `regularization.py` script.
 - `matplotlib`
 - [`celluloid`](https://pypi.org/project/celluloid/) (only if you want to create animations)
 
-### Copyrights
-The code is free to use but please keep the copyrights on the animations :)
+## Copyrights
+The code and animations are free to use but please keep the copyrights on the animations :)
 
 
 ## Other helpful resources
