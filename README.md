@@ -14,9 +14,7 @@ Also available as a video file in the file list above.
 The left side shows the LS problem constrained by the L2 norm, while the right side uses the L1 norm.
 That is, the following problems are illustrated:
 
-![L2 norm](https://github.com/ievron/RegularizationAnimation/blob/main/L2%20formula.png?raw=true)
-
-![L1 norm](https://github.com/ievron/RegularizationAnimation/blob/main/L1%20formula.png?raw=true)
+![The LS formulae](https://github.com/ievron/RegularizationAnimation/blob/main/formulae.png?raw=true)
 
 ## The code
 Can be found on the `regularization.py` script.
